@@ -1,0 +1,42 @@
+# Visual Studio user specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache/local directories
+.vs/
+bin/
+obj/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Release/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio Profiler
+*.vsp
+*.vspx
+*.sap
+
+# User-specific Code Coverage results
+*.coverage
+*.coveragexml
+
+# Visual Studio Test Results
+*.trx
+*.testresults
+
+# Visual Studio package caching
+packages/
+*.nupkg
+
+# NuGet Staging Directories
+# *.nupkg
+# *.settings.json
+
+# Visual Studio Code workspace settings (optional, if you open it in VS Code too)
+.vscode/

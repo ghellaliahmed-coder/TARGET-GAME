@@ -1,0 +1,13 @@
+C:\Users\ahmed\source\repos\TARGET_GAME\TARGET_GAME\bin\Debug\TARGET_GAME.exe.config
+C:\Users\ahmed\source\repos\TARGET_GAME\TARGET_GAME\bin\Debug\TARGET_GAME.exe
+C:\Users\ahmed\source\repos\TARGET_GAME\TARGET_GAME\bin\Debug\TARGET_GAME.pdb
+C:\Users\ahmed\source\repos\TARGET_GAME\TARGET_GAME\bin\Debug\TARGET_GAME.xml
+C:\Users\ahmed\source\repos\TARGET_GAME\TARGET_GAME\obj\Debug\TARGET_GAME.vbproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\TARGET_GAME\TARGET_GAME\obj\Debug\TARGET_GAME.Resources.resources
+C:\Users\ahmed\source\repos\TARGET_GAME\TARGET_GAME\obj\Debug\TARGET_GAME.vbproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\TARGET_GAME\TARGET_GAME\obj\Debug\TARGET_GAME.vbproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\TARGET_GAME\TARGET_GAME\obj\Debug\TARGET_GAME.exe
+C:\Users\ahmed\source\repos\TARGET_GAME\TARGET_GAME\obj\Debug\TARGET_GAME.xml
+C:\Users\ahmed\source\repos\TARGET_GAME\TARGET_GAME\obj\Debug\TARGET_GAME.pdb
+C:\Users\ahmed\source\repos\TARGET_GAME\TARGET_GAME\obj\Debug\TARGET_GAME.GameForm.resources
+C:\Users\ahmed\source\repos\TARGET_GAME\TARGET_GAME\obj\Debug\TARGET_GAME.MainMenuForm.resources
